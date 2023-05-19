@@ -1,0 +1,15 @@
+/tmp/bull.shit/c-sharp/bin/Debug/net7.0/c-sharp
+/tmp/bull.shit/c-sharp/bin/Debug/net7.0/c-sharp.deps.json
+/tmp/bull.shit/c-sharp/bin/Debug/net7.0/c-sharp.runtimeconfig.json
+/tmp/bull.shit/c-sharp/bin/Debug/net7.0/c-sharp.dll
+/tmp/bull.shit/c-sharp/bin/Debug/net7.0/c-sharp.pdb
+/tmp/bull.shit/c-sharp/obj/Debug/net7.0/c-sharp.csproj.AssemblyReference.cache
+/tmp/bull.shit/c-sharp/obj/Debug/net7.0/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/tmp/bull.shit/c-sharp/obj/Debug/net7.0/c-sharp.AssemblyInfoInputs.cache
+/tmp/bull.shit/c-sharp/obj/Debug/net7.0/c-sharp.AssemblyInfo.cs
+/tmp/bull.shit/c-sharp/obj/Debug/net7.0/c-sharp.csproj.CoreCompileInputs.cache
+/tmp/bull.shit/c-sharp/obj/Debug/net7.0/c-sharp.dll
+/tmp/bull.shit/c-sharp/obj/Debug/net7.0/refint/c-sharp.dll
+/tmp/bull.shit/c-sharp/obj/Debug/net7.0/c-sharp.pdb
+/tmp/bull.shit/c-sharp/obj/Debug/net7.0/c-sharp.genruntimeconfig.cache
+/tmp/bull.shit/c-sharp/obj/Debug/net7.0/ref/c-sharp.dll
